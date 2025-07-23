@@ -1,6 +1,6 @@
 # 🏏 Pitch Perfect – Turf Listing App
 
-> A modern Flutter + Firebase app for turf discovery, booking, and management – built with a real-world use case in mind.
+> A modern Flutter + Firebase app for turf discovery, listing, and management – built with a real-world use case in mind.
 
 ---
 
